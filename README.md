@@ -1,0 +1,2 @@
+# Capstone-project-on-the-domain-of-Health-Care
+PROBLEM STATEMENT:To study the impact of factors leading to depression and predict whether the respondent is prone to depression or not based on the factors such as cocaine, cigarettes, marijuana, crack, income range, education and many other factors and to build a suitable model so that we can identify the depressed respondents and improve their mental health.
